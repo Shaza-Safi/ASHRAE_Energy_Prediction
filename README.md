@@ -8,12 +8,12 @@
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* ex. Windows 10, Anaconda Navigator Version :2.1.0
 
 ### Installing
 
 * How/where to download your program
-numpy
+numpy & metpy & seaborn
 
 
 
