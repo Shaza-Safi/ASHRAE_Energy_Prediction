@@ -13,7 +13,7 @@
 ### Installing
 
 * How/where to download your program
-numpy & metpy & seaborn
+numpy & pip install metpy & pip install seaborn
 
 
 
